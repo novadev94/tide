@@ -10,6 +10,7 @@
 
 - Fix android icon ([#460][] - @huangyxi)
 - Fix path parsing on MacOS ([#566][] - @nnungest)
+- Check that `terraform` binary exists before trying to use it ([#534][] - @jcollado)
 
 ## [v6.1.1][] (Dec 27 2023)
 
